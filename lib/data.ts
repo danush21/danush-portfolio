@@ -8,6 +8,8 @@ import smartfarmerImg from "@/public/smartfarmer.avif";
 import vehicletrackingImg from "@/public/vehicletracking.png";
 import lanedetImg from "@/public/lanedet.jpg";
 import homeautoImg from "@/public/homeauto.jpg";
+import speak2fitImg from "@/public/speak2fit.png"
+import speak2fit1Img from "@/public/speak2fit1.png"
 
 export const links = [
   {
@@ -72,6 +74,25 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Speak2Fit AI",
+    description:
+      "Built fitness tracking web app integrating Google Gemini API, interactive dashboards to visualize user exercise trends, insights, enhancing usability, engagement. Engineered real-time speech-to-data pipeline for seamless activity logging and storage in database.",
+    tags: ["JavaScript", "MongoDB", "Node.js", "GCP", "React", "REST APIs", "TypeScript", "Docker"],
+    icons: [
+      "logos:google-cloud",
+      "logos:react",
+      "logos:javascript",
+      "logos:mongodb-icon",
+      "logos:nodejs-icon",
+      "logos:rest",
+      "vscode-icons:file-type-typescript",
+      "logos:docker-icon"
+    ],
+    imageUrl: speak2fitImg,
+    githubLink: "https://github.com/danush21/Speak2Fit-AI",
+    // demoLink: "https://www.youtube.com/watch?v=uhyC0M4WIl4",
+  },
   {
     title: "Stock Search Web Application",
     description:
