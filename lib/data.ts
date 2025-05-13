@@ -82,7 +82,6 @@ export const projectsData = [
     icons: [
       "logos:google-cloud",
       "logos:react",
-      "logos:javascript",
       "logos:mongodb-icon",
       "logos:nodejs-icon",
       "logos:rest",
