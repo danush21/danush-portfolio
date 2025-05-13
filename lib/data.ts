@@ -89,9 +89,9 @@ export const projectsData = [
       "vscode-icons:file-type-typescript",
       "logos:docker-icon"
     ],
-    imageUrl: speak2fitImg,
+    imageUrl: speak2fitImg1,
     githubLink: "https://github.com/danush21/Speak2Fit-AI",
-    // demoLink: "https://www.youtube.com/watch?v=uhyC0M4WIl4",
+    demoLink: "https://speak2fit-ai.wl.r.appspot.com/",
   },
   {
     title: "Stock Search Web Application",
