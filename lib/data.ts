@@ -43,7 +43,7 @@ export const experiencesData = [
     title: "Android and iOS Developer Intern",
     location: "WorkUp",
     description:
-      "Spearheaded development of WorkUp mobile application on both Android, iOS using Kotlin, Swift, implementing innovative features and optimizing code for better performance. Achieved 25% increase in user engagement, 15% reduction in app crashes, improved overall experience. Played key role in project planning, task delegation, quality assurance, contributing to launch and continuous improvement of application."
+      "Spearheaded development of WorkUp mobile application on both Android, iOS using Kotlin, Swift, implementing innovative features and optimizing code for better performance. Achieved 25% increase in user engagement, 15% reduction in app crashes, improved overall experience. Played key role in project planning, task delegation, quality assurance, contributing to launch and continuous improvement of application.",
       // "Spearheaded development of WorkUp Android application using Kotlin, implementing innovative features and optimizing code for better performance. Achieved 25% increase in user engagement, 15% reduction in app crashes, improved overall experience. Played key role in project planning, task delegation, quality assurance, contributing to launch and continuous improvement of application.",
     icon: React.createElement(CgWorkAlt),
     date: "May 2024 - July 2024",
