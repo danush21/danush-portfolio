@@ -318,7 +318,7 @@ export const skillsData = [
   },
   {
     name: "iOS",
-    icon: "logos:ios",
+    icon: "flat-color-icons:ios",
   },
   {
     name: "Arduino",
