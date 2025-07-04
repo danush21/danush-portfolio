@@ -313,6 +313,14 @@ export const skillsData = [
     icon: "logos:android-icon",
   },
   {
+    name: "Swift",
+    icon: "logos:swift-icon",
+  },
+  {
+    name: "iOS",
+    icon: "logos:ios-icon",
+  },
+  {
     name: "Arduino",
     icon: "vscode-icons:file-type-arduino",
   },
