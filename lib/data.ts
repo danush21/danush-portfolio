@@ -10,6 +10,7 @@ import lanedetImg from "@/public/lanedet.jpg";
 import homeautoImg from "@/public/homeauto.jpg";
 import speak2fitImg from "@/public/speak2fit.png"
 import speak2fit1Img from "@/public/speak2fit1.png"
+import ridenowImg from "@/public/Start.png"
 
 export const links = [
   {
@@ -85,9 +86,26 @@ export const projectsData = [
       "logos:react",
       "logos:mongodb-icon",
       "logos:nodejs-icon",
+      "logos:expressjs-icon",
       "logos:rest",
       "vscode-icons:file-type-typescript",
       "logos:docker-icon"
+    ],
+    imageUrl: ridenowImg,
+    githubLink: "https://github.com/danush21/ride-now",
+    // demoLink: "https://speak2fit-ai.wl.r.appspot.com/",
+  },
+  {
+    title: "Speak2Fit AI",
+    description:
+      "A full-stack client-server ride-hailing web application using MERN stack. Implemented ride booking with OTP verification, Google Maps integration, real-time route visualization, determine nearest rides, fastest routes, cheapest costs.",
+    tags: ["JavaScript", "MongoDB", "Node.js", "React", "REST APIs"],
+    icons: [
+      "logos:react",
+      "logos:mongodb-icon",
+      "logos:nodejs-icon",
+      "logos:rest",
+      "logos:javascript"
     ],
     imageUrl: speak2fitImg,
     githubLink: "https://github.com/danush21/Speak2Fit-AI",
