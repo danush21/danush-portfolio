@@ -92,7 +92,7 @@ export default function Intro() {
           <br /> */}
       
       My journey into technology started with a spark of curiosity about computers, which swiftly blossomed into a passion - SOFTWARE DEVELOPMENT. 
-      <br /> Fast forward to today, I'm a Master's student pursuing Computer Science at the University of Southern California, diving deep into cutting-edge subjects like Algorithms, Web Technologies, Database Management, Software Development, Machine Learning and Artificial Intelligence.
+      <br /> Fast forward to today, I'm a recent Master's in Computer Science graduate from the University of Southern California, where I focused on cutting-edge subjects like Algorithms, Web Technologies, Database Management, Software Development, Machine Learning and Artificial Intelligence.
 
 <br />I'm enthusiastic about the future and the opportunity to develop features that makes a genuine impact.
 
